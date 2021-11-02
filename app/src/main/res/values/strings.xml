@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Graduation Project</string>
+    <string name="ID">ID</string>
+    <string name="PW">PW</string>
+    <string name="SignIn">로그인</string>
+    <string name="SignUp">회원가입</string>
+</resources>
